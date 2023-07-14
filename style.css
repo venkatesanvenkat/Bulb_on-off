@@ -1,0 +1,14 @@
+ body{
+    background: black;
+ }
+ h1{
+    color: white;
+ }
+div{
+    height: 110px;
+    width: fit-content;
+    background: white;
+    margin: auto;
+    margin-top: 100px;
+}
+
